@@ -18,3 +18,6 @@
         构建索引：python construct_index.py
         检索：python search_from_index.py
 ```
+
+## 参考资料
+https://docs.python.org/3/library/concurrency.html
